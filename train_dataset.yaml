@@ -1,0 +1,6 @@
+train: /ball_tracking/datasets/images/train/
+val: /ball_tracking/datasets/images/val/
+
+nc: 1
+names: ['baseball']
+
