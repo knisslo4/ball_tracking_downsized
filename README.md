@@ -11,7 +11,7 @@ This is a computer vision model that is trained through YOLO framework to detect
 - increase the data set with edgertronic cameras to define seam orientation; estimating spin components of a pitch
 
 <p align="center">
-  <img src="mlb.gif" alt="MLB Demo" width="300"/>
-  <img src="outside.gif" alt="Outside Demo" width="300"/>
-  <img src="indoor.gif" alt="Indoor Demo" width="300"/>
+  <img src="mlb.gif" alt="MLB Demo" width="500"/>
+  <img src="outside.gif" alt="Outside Demo" width="500"/>
+  <img src="indoor.gif" alt="Indoor Demo" width="500"/>
 </p>
