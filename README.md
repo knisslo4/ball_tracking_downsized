@@ -4,7 +4,7 @@ This is a computer vision model that is trained through YOLO framework to detect
 ## Project History
 - Originally the model was just trained on images to place a bounding box around a baseball
 - Taken steps after initial:
-  detecting a baseball from a hitter's side view using only physics and a modified circle canney algorithm
+  detecting a baseball from a hitter's side view using only physics and Hugh Circles/edge detection
   - had some success here but it's difficult to just isolate specific areas
  NEXT STEPS:
 - perform analysis on the data; estimate pitch velocity*
